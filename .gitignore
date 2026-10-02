@@ -1,0 +1,26 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.rsuser
+
+## .NET
+bin/
+obj/
+
+## Rider
+.idea/
+
+## Build
+[Dd]ebug/
+[Rr]elease/
+
+## Test
+TestResults/
+
+## NuGet
+*.nupkg
+*.snupkg
+
+## Local configuration / secrets
+appsettings.Development.json
